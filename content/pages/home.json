@@ -3,17 +3,16 @@
   "seoDescription": "Pacientes marcam sozinhos, você para de perder horário. Agenda online, lembretes por WhatsApp e confirmação automática.",
   "blocks": [
     {
-      "_template": "hero",
       "eyebrow": "Agenda online para clínicas",
       "headline": "Menos faltas. Mais tempo para cuidar de quem chega.",
       "subheadline": "A Maré confirma consultas pelo WhatsApp, reorganiza a agenda sozinha quando alguém desmarca e deixa o paciente escolher o horário em dois toques.",
       "ctaLabel": "Testar grátis por 14 dias",
       "ctaLink": "#contato",
       "secondaryLabel": "Ver como funciona",
-      "secondaryLink": "#beneficios"
+      "secondaryLink": "#beneficios",
+      "_template": "hero"
     },
     {
-      "_template": "features",
       "title": "Tudo que a recepção faz no telefone, agora no automático",
       "anchor": "beneficios",
       "items": [
@@ -37,10 +36,10 @@
           "title": "Relatórios claros",
           "text": "Taxa de faltas, horários mais procurados e receita prevista em um só painel."
         }
-      ]
+      ],
+      "_template": "features"
     },
     {
-      "_template": "testimonials",
       "title": "Clínicas que já respiram melhor",
       "autoplay": true,
       "interval": 6,
@@ -62,11 +61,17 @@
           "name": "Dra. Camila Ueda",
           "role": "Espaço Derma",
           "rating": 5
+        },
+        {
+          "quote": "lalalalal",
+          "name": "Meu Nome",
+          "role": "Chefao",
+          "rating": 5
         }
-      ]
+      ],
+      "_template": "testimonials"
     },
     {
-      "_template": "faq",
       "title": "Perguntas frequentes",
       "items": [
         {
@@ -85,15 +90,16 @@
           "question": "E se eu quiser cancelar?",
           "answer": "Sem multa e sem fidelidade. Você exporta seus dados quando quiser."
         }
-      ]
+      ],
+      "_template": "faq"
     },
     {
-      "_template": "ctaBanner",
       "headline": "Sua agenda cheia, sem esforço.",
       "text": "14 dias grátis, sem cartão de crédito. Configuração assistida incluída.",
       "buttonLabel": "Começar agora",
       "buttonLink": "mailto:contato@mare.exemplo",
-      "anchor": "contato"
+      "anchor": "contato",
+      "_template": "ctaBanner"
     }
   ]
 }
