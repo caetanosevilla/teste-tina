@@ -1,0 +1,99 @@
+{
+  "seoTitle": "Maré — Agenda online para clínicas",
+  "seoDescription": "Pacientes marcam sozinhos, você para de perder horário. Agenda online, lembretes por WhatsApp e confirmação automática.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Agenda online para clínicas",
+      "headline": "Menos faltas. Mais tempo para cuidar de quem chega.",
+      "subheadline": "A Maré confirma consultas pelo WhatsApp, reorganiza a agenda sozinha quando alguém desmarca e deixa o paciente escolher o horário em dois toques.",
+      "ctaLabel": "Testar grátis por 14 dias",
+      "ctaLink": "#contato",
+      "secondaryLabel": "Ver como funciona",
+      "secondaryLink": "#beneficios"
+    },
+    {
+      "_template": "features",
+      "title": "Tudo que a recepção faz no telefone, agora no automático",
+      "anchor": "beneficios",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Agendamento 24h",
+          "text": "O paciente vê os horários livres e marca pelo celular, inclusive fora do expediente."
+        },
+        {
+          "icon": "message",
+          "title": "Lembretes no WhatsApp",
+          "text": "Confirmação automática 48h e 2h antes. Quem não confirma libera a vaga."
+        },
+        {
+          "icon": "refresh",
+          "title": "Lista de espera inteligente",
+          "text": "Desmarcou? A Maré oferece o horário para o próximo da fila em segundos."
+        },
+        {
+          "icon": "chart",
+          "title": "Relatórios claros",
+          "text": "Taxa de faltas, horários mais procurados e receita prevista em um só painel."
+        }
+      ]
+    },
+    {
+      "_template": "testimonials",
+      "title": "Clínicas que já respiram melhor",
+      "autoplay": true,
+      "interval": 6,
+      "items": [
+        {
+          "quote": "As faltas caíram pela metade no primeiro mês. A recepção finalmente tem tempo para atender quem está na sala.",
+          "name": "Dra. Helena Prado",
+          "role": "Clínica Prado Odontologia",
+          "rating": 5
+        },
+        {
+          "quote": "Configurei numa tarde. No dia seguinte, os pacientes já estavam marcando sozinhos à noite.",
+          "name": "Rafael Lins",
+          "role": "Fisio Movimento",
+          "rating": 5
+        },
+        {
+          "quote": "A lista de espera paga a assinatura sozinha. Nenhum horário fica vazio.",
+          "name": "Dra. Camila Ueda",
+          "role": "Espaço Derma",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "_template": "faq",
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "question": "Preciso instalar alguma coisa?",
+          "answer": "Não. A Maré funciona no navegador e o paciente agenda por um link, sem baixar aplicativo."
+        },
+        {
+          "question": "Funciona com o meu número de WhatsApp?",
+          "answer": "Sim. Conectamos o WhatsApp Business da clínica em poucos minutos."
+        },
+        {
+          "question": "Consigo importar minha agenda atual?",
+          "answer": "Sim, importamos planilhas e as agendas do Google e do Outlook."
+        },
+        {
+          "question": "E se eu quiser cancelar?",
+          "answer": "Sem multa e sem fidelidade. Você exporta seus dados quando quiser."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "headline": "Sua agenda cheia, sem esforço.",
+      "text": "14 dias grátis, sem cartão de crédito. Configuração assistida incluída.",
+      "buttonLabel": "Começar agora",
+      "buttonLink": "mailto:contato@mare.exemplo",
+      "anchor": "contato"
+    }
+  ]
+}
